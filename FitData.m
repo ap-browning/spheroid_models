@@ -1,4 +1,4 @@
-%% FIT DATA
+%% FIT DATA 
 %  Fit spheroid data to mathematical model.
 
 % Load models
